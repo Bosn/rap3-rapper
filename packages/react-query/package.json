@@ -1,6 +1,6 @@
 {
   "name": "@rap3/react-query",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "jsnext:source": "./src/index.ts",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
