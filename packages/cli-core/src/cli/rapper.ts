@@ -61,7 +61,7 @@ export class Rapper {
     const { rapUrl, apiUrl, urlMapper } = this.params;
     this.spinner.start(chalk.grey('rapper: getting interface information from Rap platform...'));
     try {
-      const res = await getInterfaces(apiUrl);
+      const res = await getInterfaces(rapUrl + apiUrl);
       interfaces = res.interfaces;
       this.basePath = res.basePath;
       this.interfaces = uniqueItfs(getIntfWithModelName(rapUrl || '', interfaces, urlMapper));
