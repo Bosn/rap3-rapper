@@ -41,5 +41,5 @@
     "@rap3/request": "^0.0.7",
     "@tanstack/vue-query": "^4.18.1"
   },
-  "gitHead": "3a9eec6d42f2da3cd1aabb6adb6fa633eff30426"
+  "gitHead": "999866cf17264ffbc84ea15178a54ec1a37a39cd"
 }
