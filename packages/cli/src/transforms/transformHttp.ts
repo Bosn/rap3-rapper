@@ -4,7 +4,7 @@ import {
   getTsModelTemplate,
   Intf,
   IOutputFiles,
-} from '@rapper3/cli-generation';
+} from '@rap3/cli-generation';
 import { IRapperConfig } from '../types/index';
 
 export async function transIntfs2HttpFile(
@@ -54,7 +54,7 @@ export async function transIntfs2HttpFile(
         `
           : '';
         return `
-        import { createHttpRequest, createFallbackFetch, createSeprateInterceptor } from '@rapper3/request'
+        import { createHttpRequest, createFallbackFetch, createSeprateInterceptor } from '@rap3/request'
         import { IModels } from './models'
         import { POS_MAP } from './pos'
 

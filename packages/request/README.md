@@ -1,4 +1,4 @@
-# `@rapper3/request`
+# `@rap3/request`
 
 > Based on [axios](https://github.com/axios/axios)
 
@@ -7,13 +7,13 @@
 ## Install
 
 ```bash
-yarn add @rapper3/request
+yarn add @rap3/request
 ```
 
 Or
 
 ```bash
-npm i @rapper3/request
+npm i @rap3/request
 ```
 
 ## Usage

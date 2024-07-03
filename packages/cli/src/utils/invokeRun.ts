@@ -1,5 +1,5 @@
-import { Rapper } from '@rapper3/cli-core';
-import { writeFile } from '@rapper3/cli-generation';
+import { Rapper } from '@rap3/cli-core';
+import { writeFile } from '@rap3/cli-generation';
 import {
   transIntfs2DtoFile,
   transIntfs2HttpFile,

@@ -5,7 +5,7 @@ import {
   createUseRapperQueries,
   createUseRapperInfiniteQuery,
   createRapperQueryOptions,
-} from '@rapper/react-query';
+} from '@rap3/react-query';
 
 export const useRapperQuery = createUseRapperQuery(http);
 export const useRapperQueries = createUseRapperQueries(http);

@@ -1,10 +1,3 @@
-/*
- * @Author: xia xian
- * @Date: 2022-07-21 13:52:00
- * @LastEditors: xia xian
- * @LastEditTime: 2022-08-29 15:11:18
- * @Description: generate TS format definition file
- */
 import JSON5 from 'json5'
 import _ from 'lodash'
 import { DefaultTypeConfig } from '../constant'

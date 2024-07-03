@@ -1,4 +1,4 @@
-import { IHttpRequest } from '@rapper3/request';
+import { IHttpRequest } from '@rap3/request';
 import {
   QueryFunctionContext,
   useInfiniteQuery,

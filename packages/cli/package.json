@@ -1,8 +1,8 @@
 {
-  "name": "@rapper3/cli",
+  "name": "@rap3/cli",
   "version": "3.1.1",
   "description": "> TODO: description",
-  "author": "ytftianwen@gmail.com <ytftianwen@163.com>",
+  "author": "bosn@outlook.com",
   "homepage": "",
   "license": "ISC",
   "main": "lib/index.js",
@@ -35,11 +35,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/infra-fe/rapper3.git"
+    "url": "https://github.com/Bosn/rap3-rapper.git"
   },
   "dependencies": {
-    "@rapper3/cli-core": "^3.1.1",
-    "@rapper3/cli-generation": "^3.1.1",
+    "@rap3/cli-core": "^3.1.1",
+    "@rap3/cli-generation": "^3.1.1",
     "chalk": "^4",
     "commander": "^9.4.0",
     "query-string": "^7.1.1"

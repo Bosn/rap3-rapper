@@ -1,6 +1,6 @@
 /* eslint-disable no-inline-comments */
 /* eslint-disable @typescript-eslint/naming-convention */
-import { IHttpRequest } from '@rapper3/request';
+import { IHttpRequest } from '@rap3/request';
 import {
   useQueries,
   QueryFunctionContext,

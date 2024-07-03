@@ -1,5 +1,5 @@
 {
-  "name": "@rapper3/request",
+  "name": "@rap3/request",
   "version": "0.1.1",
   "description": "default fetch for rapper",
   "keywords": [
@@ -7,7 +7,7 @@
     "request",
     "axios"
   ],
-  "author": "ytftianwen@gmail.com <ytftianwen@163.com>",
+  "author": "bosn@outlook.com",
   "homepage": "",
   "license": "ISC",
   "main": "lib/index.js",
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/infra-fe/rapper3.git"
+    "url": "https://github.com/Bosn/rap3-rapper.git"
   },
   "scripts": {
     "build": "father build"

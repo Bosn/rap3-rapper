@@ -1,8 +1,8 @@
 {
-  "name": "@rapper3/cli-generation",
+  "name": "@rap3/cli-generation",
   "version": "3.1.1",
   "description": "> TODO: description",
-  "author": "ytftianwen@gmail.com <ytftianwen@163.com>",
+  "author": "bosn@outlook.com",
   "homepage": "",
   "license": "ISC",
   "main": "lib/index.js",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/infra-fe/rapper3.git"
+    "url": "https://github.com/Bosn/rap3-rapper.git"
   },
   "scripts": {
     "build": "father build"

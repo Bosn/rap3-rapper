@@ -1,8 +1,8 @@
 {
-  "name": "@rapper3/vue-swr",
+  "name": "@rap3/vue-swr",
   "version": "1.1.1",
   "description": "> TODO: description",
-  "author": "ytftianwen@gmail.com <ytftianwen@163.com>",
+  "author": "bosn@outlook.com",
   "homepage": "",
   "license": "ISC",
   "main": "lib/index.js",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/infra-fe/rapper3.git"
+    "url": "https://github.com/Bosn/rap3-rapper.git"
   },
   "scripts": {
     "build": "father build"
@@ -33,7 +33,7 @@
     "vue": "^3.2.37"
   },
   "peerDependencies": {
-    "@rapper3/request": "^0.0.7",
+    "@rap3/request": "^0.0.7",
     "swrv": "^1.0.0-beta.8",
     "vue": "^3.2.37"
   },

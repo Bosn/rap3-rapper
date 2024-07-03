@@ -1,17 +1,10 @@
-/*
- * @Author: xia xian
- * @Date: 2022-08-04 14:27:02
- * @LastEditors: xia xian
- * @LastEditTime: 2022-08-29 15:01:39
- * @Description:
- */
 import {
   BaseCreator,
   getDtoTemplate,
   Intf,
   IOutputFiles,
   ITEM_EMPTY,
-} from '@rapper3/cli-generation';
+} from '@rap3/cli-generation';
 import { IRapperConfig } from '../types/index';
 
 export async function transIntfs2DtoFile(intfList: Intf[], rapperConfig?: IRapperConfig) {

@@ -1,10 +1,3 @@
-/*
- * @Author: xia xian
- * @Date: 2022-07-21 13:52:00
- * @LastEditors: xia xian
- * @LastEditTime: 2022-09-01 15:15:09
- * @Description: generate TS format definition file
- */
 import { compile, DEFAULT_OPTIONS, Options } from 'json-schema-to-typescript'
 import { chain, compact, map, upperFirst } from 'lodash'
 import { TSchema } from '../creator'

@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/naming-convention */
-import type { IHttpRequest } from '@rapper3/request'
+import type { IHttpRequest } from '@rap3/request'
 import {
   useQuery,
   UseQueryOptions,

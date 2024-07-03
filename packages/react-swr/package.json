@@ -1,8 +1,8 @@
 {
-  "name": "@rapper3/react-swr",
+  "name": "@rap3/react-swr",
   "version": "0.1.1",
   "description": "> TODO: description",
-  "author": "ytftianwen@gmail.com <ytftianwen@163.com>",
+  "author": "bosn@outlook.com",
   "homepage": "",
   "license": "ISC",
   "main": "lib/index.js",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/infra-fe/rapper3.git"
+    "url": "https://github.com/Bosn/rap3-rapper.git"
   },
   "scripts": {
     "build": "father build"
@@ -32,7 +32,7 @@
     "swr": "^1.3.0"
   },
   "peerDependencies": {
-    "@rapper3/request": "^0.1.0",
+    "@rap3/request": "^0.1.0",
     "swr": "^1.3.0"
   },
   "gitHead": "21de44864ec144fc3940b39cf9d44598492bfad6"

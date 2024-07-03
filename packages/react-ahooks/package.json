@@ -1,8 +1,8 @@
 {
-  "name": "@rapper3/react-ahooks",
+  "name": "@rap3/react-ahooks",
   "version": "0.1.1",
   "description": "rapper ahooks",
-  "author": "ytftianwen@gmail.com <ytftianwen@163.com>",
+  "author": "bosn@outlook.com",
   "homepage": "",
   "license": "ISC",
   "main": "lib/index.js",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/infra-fe/rapper3.git"
+    "url": "https://github.com/Bosn/rap3-rapper.git"
   },
   "scripts": {
     "build": "father build"
@@ -33,7 +33,7 @@
     "axios": "^0.27.2"
   },
   "peerDependencies": {
-    "@rapper3/request": "^0.0.7",
+    "@rap3/request": "^0.0.7",
     "axios": "^0.27.2"
   },
   "gitHead": "21de44864ec144fc3940b39cf9d44598492bfad6",

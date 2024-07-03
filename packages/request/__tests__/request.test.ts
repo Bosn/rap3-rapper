@@ -4,7 +4,7 @@ const http = createHttpRequest({
   baseURL: 'https://jsonplaceholder.typicode.com/',
 });
 
-describe('@rapper3/request: basic', () => {
+describe('@rap3/request: basic', () => {
   describe('Test GET', () => {
     it('GET: no params', async () => {
       const req = http('GET/posts/1' as never);

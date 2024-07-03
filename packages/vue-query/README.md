@@ -1,4 +1,4 @@
-# `@rapper3/vue-query4`
+# `@rap3/vue-query4`
 
 > Based on [@tanstack/vue-query](https://tanstack.com/query/v4/docs/adapters/vue-query)
 
@@ -8,16 +8,16 @@
 
 ### 1. [Generate TS code](https://infra-fe.github.io/rap-client/code/http) in your project firstly
 
-### 2. Then install `@rapper3/vue-query4`
+### 2. Then install `@rap3/vue-query4`
 
 ```bash
-yarn add @rapper3/vue-query4 @tanstack/vue-query
+yarn add @rap3/vue-query4 @tanstack/vue-query
 ```
 
 Or
 
 ```bash
-npm i @rapper3/vue-query4 @tanstack/vue-query
+npm i @rap3/vue-query4 @tanstack/vue-query
 ```
 
 ## Usage
@@ -26,7 +26,7 @@ npm i @rapper3/vue-query4 @tanstack/vue-query
 
 ```ts
 // init.ts
-import { createUseQuery, createUseInfiniteQuery } from '@rapper3/vue-query4';
+import { createUseQuery, createUseInfiniteQuery } from '@rap3/vue-query4';
 import { IModels, http } from 'src/rapper';
 
 export const useRapperQuery = createUseQuery<IModels>(http);
