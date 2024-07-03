@@ -1,6 +1,6 @@
 {
   "name": "@rapper3/cli",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "description": "> TODO: description",
   "author": "ytftianwen@gmail.com <ytftianwen@163.com>",
   "homepage": "",
@@ -38,8 +38,8 @@
     "url": "https://github.com/infra-fe/rapper3.git"
   },
   "dependencies": {
-    "@rapper3/cli-core": "^3.1.0",
-    "@rapper3/cli-generation": "^3.1.0",
+    "@rapper3/cli-core": "^3.1.1",
+    "@rapper3/cli-generation": "^3.1.1",
     "chalk": "^4",
     "commander": "^9.4.0",
     "query-string": "^7.1.1"

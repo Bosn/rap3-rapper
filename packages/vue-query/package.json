@@ -1,6 +1,6 @@
 {
   "name": "@rapper3/vue-query",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "rapper query",
   "keywords": [
     "rapper",
@@ -34,8 +34,8 @@
     "build": "father build"
   },
   "devDependencies": {
-    "vue": "^3.2.37",
-    "@tanstack/vue-query": "^4.18.1"
+    "@tanstack/vue-query": "^4.18.1",
+    "vue": "^3.2.37"
   },
   "peerDependencies": {
     "@rapper3/request": "^0.0.7",
