@@ -36,7 +36,7 @@
     "@rap3/request": "^0.0.7",
     "axios": "^0.27.2"
   },
-  "gitHead": "999866cf17264ffbc84ea15178a54ec1a37a39cd",
+  "gitHead": "09121d1fcf440e00519216c226b70014ee53b0bc",
   "dependencies": {
     "ahooks": "^3.7.2"
   }
