@@ -1,6 +1,6 @@
 {
   "name": "@rap-api/react-ahooks",
-  "version": "0.1.3-beta.0",
+  "version": "0.0.1",
   "description": "rapper ahooks",
   "author": "bosn@outlook.com",
   "homepage": "",
@@ -33,7 +33,7 @@
     "axios": "^0.27.2"
   },
   "peerDependencies": {
-    "@rap-api/request": "^0.0.7",
+    "@rap-api/request": "^0.0.1",
     "axios": "^0.27.2"
   },
   "gitHead": "09121d1fcf440e00519216c226b70014ee53b0bc",
