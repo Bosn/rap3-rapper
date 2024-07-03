@@ -1,4 +1,4 @@
-# @rap3/vue-swr
+# @rap-api/vue-swr
 
 Based on [vue swrv](https://docs-swrv.netlify.app/guide/getting-started.html)
 
@@ -6,17 +6,17 @@ Based on [vue swrv](https://docs-swrv.netlify.app/guide/getting-started.html)
 
 ### 1. [Generate TS code](https://infra-fe.github.io/rap-client/code/http) in your project firstly
 
-### 2. Then install `@rap3/vue-swr`
+### 2. Then install `@rap-api/vue-swr`
 
 ```sh
-yarn add @rap3/vue-swr
+yarn add @rap-api/vue-swr
 ```
 
 ### 3. `createSwrv` and `useSwr`
 
 ```ts
 import { defineComponent, ref } from "vue";
-import { createSwrv } from '@rap3/vue-swr';
+import { createSwrv } from '@rap-api/vue-swr';
 import { Models, http } from 'src/rapper';
 
 const useSwr = createSwrv<Models>(http);

@@ -2,8 +2,8 @@
   "compilerOptions": {
     "baseUrl": "./",
     "paths": {
-      "@rap3/*": ["./packages/*/src"],
-      "@rap3/ahooks": ["./packages/react-ahooks/src"]
+      "@rap-api/*": ["./packages/*/src"],
+      "@rap-api/ahooks": ["./packages/react-ahooks/src"]
     },
     "outDir": "dist", //输出目录
     "lib": ["esnext", "dom"],

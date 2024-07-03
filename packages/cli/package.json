@@ -1,5 +1,5 @@
 {
-  "name": "@rap3/cli",
+  "name": "@rap-api/cli",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "bosn@outlook.com",
@@ -38,8 +38,8 @@
     "url": "https://github.com/Bosn/rap3-rapper.git"
   },
   "dependencies": {
-    "@rap3/cli-core": "^3.1.3-beta.0",
-    "@rap3/cli-generation": "^3.1.3-beta.0",
+    "@rap-api/cli-core": "^0.0.1",
+    "@rap-api/cli-generation": "^0.0.1",
     "chalk": "^4",
     "commander": "^9.4.0",
     "query-string": "^7.1.1"

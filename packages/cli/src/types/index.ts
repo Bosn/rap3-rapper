@@ -1,5 +1,5 @@
-import type { RAPPER_TYPE } from '@rap3/cli-core';
-import type { Intf, IOutputFiles } from '@rap3/cli-generation';
+import type { RAPPER_TYPE } from '@rap-api/cli-core';
+import type { Intf, IOutputFiles } from '@rap-api/cli-generation';
 
 export interface ITemplateRes {
   filePath: string;

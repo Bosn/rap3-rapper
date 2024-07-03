@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "@rap3/rapper",
+  "name": "@rap-api/rapper",
   "version": "0.0.1",
   "workspaces": [
     "packages/*"

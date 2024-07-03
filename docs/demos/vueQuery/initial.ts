@@ -1,4 +1,4 @@
-import { createUseQuery } from '@rap3/vue-query4';
+import { createUseQuery } from '@rap-api/vue-query4';
 import { IModels, http } from '../../rapper/http';
 
 export const useQuery = createUseQuery<IModels>(http);

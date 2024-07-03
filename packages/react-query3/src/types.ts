@@ -1,4 +1,4 @@
-import type { createHttpRequest } from '@rap3/request';
+import type { createHttpRequest } from '@rap-api/request';
 
 export type AxiosConfig<T> = NonNullable<Parameters<typeof createHttpRequest<any, T>>[0]>;
 

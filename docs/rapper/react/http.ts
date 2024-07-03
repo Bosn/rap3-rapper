@@ -10,7 +10,7 @@
  * Rap repository url: ./repository/editor?id=308
  */
 
-import { createHttpRequest, createFallbackFetch, createSeprateInterceptor } from '@rap3/request';
+import { createHttpRequest, createFallbackFetch, createSeprateInterceptor } from '@rap-api/request';
 import { IModels } from './models';
 import { POS_MAP } from './pos';
 

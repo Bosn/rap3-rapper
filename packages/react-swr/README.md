@@ -1,4 +1,4 @@
-# @rap3/react-swr
+# @rap-api/react-swr
 
 Based on [swr](https://swr.vercel.app/zh-CN)
 
@@ -6,10 +6,10 @@ Based on [swr](https://swr.vercel.app/zh-CN)
 
 ### 1. [Generate TS code](https://infra-fe.github.io/rap-client/code/http) in your project firstly
 
-### 2. Install `@rap3/react-swr`
+### 2. Install `@rap-api/react-swr`
 
 ```sh
-yarn add @rap3/react-swr
+yarn add @rap-api/react-swr
 ```
 
 ### 3. `createSwr` and `useSwr`
@@ -17,7 +17,7 @@ yarn add @rap3/react-swr
 ```ts
 import React from 'react';
 import { Button } from 'antd';
-import { createSwr, createUseMutate } from '@rap3/react-swr';
+import { createSwr, createUseMutate } from '@rap-api/react-swr';
 import { Models, http } from 'src/rapper';
 
 const useSwr = createSwr<Models>(http);

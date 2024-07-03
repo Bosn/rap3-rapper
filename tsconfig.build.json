@@ -16,7 +16,7 @@
     "downlevelIteration": true,
     "baseUrl": ".",
     "paths": {
-      "@rap3/*": ["packages/*/src"]
+      "@rap-api/*": ["packages/*/src"]
     },
     "lib": ["ESNext"]
   }

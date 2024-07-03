@@ -1,5 +1,5 @@
-import type { Intf, IOutputFiles } from '@rap3/cli-generation';
-import { BaseCreator } from '@rap3/cli-generation';
+import type { Intf, IOutputFiles } from '@rap-api/cli-generation';
+import { BaseCreator } from '@rap-api/cli-generation';
 import { IRapperConfig } from '../types/index';
 
 export async function transIntfs2ReactFile(intfList: Intf[], rapperConfig?: IRapperConfig) {
@@ -15,7 +15,7 @@ export async function transIntfs2ReactFile(intfList: Intf[], rapperConfig?: IRap
       filePath: `${rapperPath}/useHttp.ts`,
       template: () => {
         return `
-        import { createUseHttp } from '@rap3/react-ahooks'
+        import { createUseHttp } from '@rap-api/react-ahooks'
         import { http } from './http'
         import { IModels } from './models'
 

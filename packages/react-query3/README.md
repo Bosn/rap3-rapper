@@ -1,4 +1,4 @@
-# @rap3/react-query3
+# @rap-api/react-query3
 
 Combine Rapper3 with powerful React Query.
 
@@ -6,10 +6,10 @@ Combine Rapper3 with powerful React Query.
 
 ---
 
-### 1. Install [Rapper3 http](https://infra-fe.github.io/rap-client/code/http), [React Query](https://react-query.tanstack.com/) and `@rap3/react-query3` in your project.
+### 1. Install [Rapper3 http](https://infra-fe.github.io/rap-client/code/http), [React Query](https://react-query.tanstack.com/) and `@rap-api/react-query3` in your project.
 
 ```sh
-npm install --save @rap3/cli @rap3/request react-query@^3 @rap3/react-query3
+npm install --save @rap-api/cli @rap-api/request react-query@^3 @rap-api/react-query3
 ```
 
 [Generate TypeScript code](https://infra-fe.github.io/rap-client/code/react/react-query) in your project.
@@ -36,7 +36,7 @@ Create the hooks using generated code.
 
 ```tsx
 import * as React from 'react';
-import { createUseRapperQuery } from '@rap3/react-query3';
+import { createUseRapperQuery } from '@rap-api/react-query3';
 import { fetch } from 'src/rapper';
 
 const useRapperQuery = createUseRapperQuery(fetch);

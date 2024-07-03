@@ -1,5 +1,5 @@
-import type { Intf, IOutputFiles } from '@rap3/cli-generation';
-import { BaseCreator, getTsModelTemplate } from '@rap3/cli-generation';
+import type { Intf, IOutputFiles } from '@rap-api/cli-generation';
+import { BaseCreator, getTsModelTemplate } from '@rap-api/cli-generation';
 import { IRapperConfig } from '../types/index';
 
 export async function transIntfs2TsFile(intfList: Intf[], rapperConfig?: IRapperConfig) {

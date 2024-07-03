@@ -4,7 +4,7 @@ import {
   Intf,
   IOutputFiles,
   ITEM_EMPTY,
-} from '@rap3/cli-generation';
+} from '@rap-api/cli-generation';
 import { IRapperConfig } from '../types/index';
 
 export async function transIntfs2DtoFile(intfList: Intf[], rapperConfig?: IRapperConfig) {

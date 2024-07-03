@@ -1,3 +1,3 @@
-# @rap3/cli-generation
+# @rap-api/cli-generation
 
-Cli generation for `@rap3/cli`, [More Details](https://infra-fe.github.io/rap-client/code)
+Cli generation for `@rap-api/cli`, [More Details](https://infra-fe.github.io/rap-client/code)

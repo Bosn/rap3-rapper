@@ -1,5 +1,5 @@
 {
-  "name": "@rap3/react-query",
+  "name": "@rap-api/react-query",
   "version": "0.2.3-beta.0",
   "jsnext:source": "./src/index.ts",
   "main": "lib/index.js",
@@ -26,7 +26,7 @@
     "dist/"
   ],
   "peerDependencies": {
-    "@rap3/request": "^0.0.7",
+    "@rap-api/request": "^0.0.7",
     "@tanstack/react-query": "^4"
   },
   "devDependencies": {

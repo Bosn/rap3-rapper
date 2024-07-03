@@ -1,4 +1,4 @@
-import { createHttpRequest } from '@rap3/request';
+import { createHttpRequest } from '@rap-api/request';
 import { IModels } from './models';
 
 function delay<T>(value: T, time = 16) {

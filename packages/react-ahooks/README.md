@@ -1,4 +1,4 @@
-# `@rap3/react-ahooks`
+# `@rap-api/react-ahooks`
 
 > Based on [ahooks](https://ahooks.js.org/zh-CN/hooks/use-request/index)
 
@@ -6,16 +6,16 @@
 
 ### 1. [Generate TS code](https://infra-fe.github.io/rap-client/code/react) in your project firstly
 
-### 2. Then install `@rap3/react-ahooks`
+### 2. Then install `@rap-api/react-ahooks`
 
 ```sh
-yarn add @rap3/react-ahooks ahooks
+yarn add @rap-api/react-ahooks ahooks
 ```
 
 Or
 
 ```bash
-npm i @rap3/request @rap3/react-ahooks ahooks
+npm i @rap-api/request @rap-api/react-ahooks ahooks
 ```
 
 ### 3. `useHttp`

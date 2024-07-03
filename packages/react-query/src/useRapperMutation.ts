@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/naming-convention */
-import { IHttpRequest } from '@rap3/request';
+import { IHttpRequest } from '@rap-api/request';
 import { useMutation, UseMutationOptions } from '@tanstack/react-query';
 import { AxiosConfig } from './types';
 

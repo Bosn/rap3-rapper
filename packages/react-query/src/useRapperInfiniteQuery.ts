@@ -1,4 +1,4 @@
-import { IHttpRequest } from '@rap3/request';
+import { IHttpRequest } from '@rap-api/request';
 import {
   QueryFunctionContext,
   useInfiniteQuery,

@@ -6,10 +6,10 @@ Combine Rapper with powerful React Query.
 
 ---
 
-### 1. Install [Rapper http](https://infra-fe.github.io/rap-client/code/http), [React Query](https://react-query.tanstack.com/) and `@rap3/react-query` in your project.
+### 1. Install [Rapper http](https://infra-fe.github.io/rap-client/code/http), [React Query](https://react-query.tanstack.com/) and `@rap-api/react-query` in your project.
 
 ```sh
-yarn add @rap3/cli @rap3/request @rap3/react-query @tanstack/react-query
+yarn add @rap-api/cli @rap-api/request @rap-api/react-query @tanstack/react-query
 ```
 
 [Generate TypeScript code](https://infra-fe.github.io/rap-client/code/react/react-query) in your project.
@@ -36,7 +36,7 @@ function App() {
 
 ```tsx
 import * as React from 'react';
-import { createUseRapperQuery } from '@rap3/react-query';
+import { createUseRapperQuery } from '@rap-api/react-query';
 import { fetch } from 'src/rapper';
 
 const useRapperQuery = createUseRapperQuery(fetch);
