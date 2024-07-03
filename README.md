@@ -1,4 +1,3 @@
-[![MIT License][license-shield]][license-url]
 [![npm version](https://img.shields.io/npm/v/rap.svg)](https://www.npmjs.com/package/rap)
 [![npm downloads](https://img.shields.io/npm/dt/rap.svg)](https://www.npmjs.com/package/rap)
 
@@ -79,5 +78,4 @@ const [responseData, { isPending, errorMessage }] = useAPI['GET/duck/fetchColor'
 
 ## 联系我们
 
-- [Github Issue](https://github.com/thx/rapper/issues)
-- 钉钉群：11789704
+- [Github Issue](https://github.com/bosn/rap3-rapper/issues)

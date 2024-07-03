@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "@infra/rapper",
-  "version": "2.1.14",
+  "name": "@rap3/rapper",
+  "version": "0.0.1",
   "workspaces": [
     "packages/*"
   ],
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/infra-fe/rapper3.git"
+    "url": "https://github.com/Bosn/rap3-rapper"
   },
   "keywords": [
     "api",
@@ -32,7 +32,7 @@
     "typescript",
     "redux"
   ],
-  "author": "ytftianwen@163.com",
+  "author": "bosn@outlook.com",
   "license": "ISC",
   "files": [
     "dist",
